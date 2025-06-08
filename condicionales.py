@@ -5,3 +5,4 @@ if all(nota >= 6 for nota in notas):
     print("Todas las notas son aprobatorias")
 elif any(nota < 6 for nota in notas):
     print("Hay al menos una nota reprobatoria")
+print("MODIFICACION")
